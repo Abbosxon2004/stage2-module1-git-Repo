@@ -1,0 +1,30 @@
+From 444aa45c5bba09fe4cf7819cdaa7ae6a63bce187 Mon Sep 17 00:00:00 2001
+From: abboskhan <abbosxon28012004@gmail.com>
+Date: Tue, 7 Feb 2023 09:48:14 +0500
+Subject: [PATCH] Changed another 2 lines in firstFile.txt in git_1
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index a123220..2b38b13 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,10 +1,10 @@
+ Added firstFile.txt to git_1
+ Changed 2 lines in firstFile.txt in git_1
+ Added firstFile.txt to git_1
+-Added firstFile.txt to git_1
++Changed another 2 lines in firstFile.txt in git_1
+ Added firstFile.txt to git_1
+ Changed 2 lines in firstFile.txt in git_1
+ Added firstFile.txt to git_1
+-Added firstFile.txt to git_1
++Changed another 2 lines in firstFile.txt in git_1
+ Added firstFile.txt to git_1
+ Added firstFile.txt to git_1
+\ No newline at end of file
+-- 
+2.39.1.windows.1
+
